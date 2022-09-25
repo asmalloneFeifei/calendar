@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "Calendar-home-work",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
