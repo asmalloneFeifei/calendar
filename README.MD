@@ -1,0 +1,1 @@
+// 运行监听 NODE_ENV=production taro build --type weapp --watch --verbose
